@@ -1,0 +1,26 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "two",
+      "points": [
+        [
+          33.456066945606686,
+          11.001394700139464
+        ],
+        [
+          84.36262203626222,
+          95.3807531380753
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\2\\two104.jpeg",
+  "imageData": null,
+  "imageHeight": 128,
+  "imageWidth": 128
+}

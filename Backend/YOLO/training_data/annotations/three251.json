@@ -1,0 +1,26 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "three",
+      "points": [
+        [
+          34.081967213114794,
+          10.448087431694002
+        ],
+        [
+          98.97267759562843,
+          112.90710382513669
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\3\\three251.jpeg",
+  "imageData": null,
+  "imageHeight": 128,
+  "imageWidth": 128
+}
